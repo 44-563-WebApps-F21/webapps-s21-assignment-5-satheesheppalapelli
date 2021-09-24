@@ -1,6 +1,11 @@
+p {
+    text-align: center;
+}
 div.col-sm-2{
     background-color:lavender;
+    text-align: center;
 }
 div.col-md{
     background-color:lavenderblush;
+    text-align: center;
 }

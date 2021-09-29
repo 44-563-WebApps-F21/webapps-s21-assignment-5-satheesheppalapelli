@@ -9,3 +9,13 @@ div.col-md{
     background-color:lavenderblush;
     text-align: center;
 }
+table.table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse 10px;
+    width: 100%;
+    text-align: center;
+}
+.caption-top {
+    caption-side: top;
+    text-align: center;
+}
